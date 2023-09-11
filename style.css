@@ -43,22 +43,27 @@ header{
 }
 
 .box1 div{ 
-  padding: 60% 0;
+  padding: 40% 0;
+}
+
+.box1 li{
+  padding: 2% 0;
 }
 
 .box4{
   background-color:rgb(167, 221, 145);
   text-align: center;
 }
-.box4 p{ 
+
+.box4 div{ 
   height: 20%;
-  padding: 17% 0;
+  padding-top: 15%;
 }
 
 .main-box2{
   width: 60%;
   height: 100vh;
-  background-color:cornsilk;
+  /* background-color:cornsilk; */
 }
 
 .bluebox{
@@ -69,14 +74,14 @@ header{
 }
 
 .bluebox div{
-  margin: 7%;
-  padding-top: 1.5%;
+  margin: 5%;
   width: 20%;
   height: 30%;
-  
 }
 
 .bluebox .main-text{
+  margin-top: 7%;
+  padding-top: 1.5%;
   background-color: aliceblue;
   text-align: center;
   padding-right: 0;
@@ -85,10 +90,13 @@ header{
 .bluebox .box2{
   text-align: end;
   padding-right: 2%;
+  /* margin-top: 5%; */
+  width: 30%;
 }
 
 .bluebox .box5{
   padding-left: 2%;
+  width: 30%;
 }
 
 .box3{
