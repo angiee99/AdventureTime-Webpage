@@ -1,0 +1,101 @@
+*{
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+a{ color: black;}
+
+a, a:visited{text-decoration: none;}
+
+
+
+ul li{
+  list-style: none;
+}
+
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{
+  font-size:20;
+  font-weight: 500;
+}
+
+header{
+  width: 100%;
+}
+
+.main-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.main-box1{
+  width: 30%;
+  height: 100vh;
+}
+.box1{
+  height: 80%;
+  background-color:rgb(239, 187, 165);
+  text-align: center;
+}
+
+.box1 div{ 
+  padding: 60% 0;
+}
+
+.box4{
+  background-color:rgb(167, 221, 145);
+  text-align: center;
+}
+.box4 p{ 
+  height: 20%;
+  padding: 17% 0;
+}
+
+.main-box2{
+  width: 60%;
+  height: 100vh;
+  background-color:cornsilk;
+}
+
+.bluebox{
+  background-color: rgb(152, 207, 226);
+  height: 20%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bluebox div{
+  margin: 7%;
+  padding-top: 1.5%;
+  width: 20%;
+  height: 30%;
+  
+}
+
+.bluebox .main-text{
+  background-color: aliceblue;
+  text-align: center;
+  padding-right: 0;
+}
+
+.bluebox .box2{
+  text-align: end;
+  padding-right: 2%;
+}
+
+.bluebox .box5{
+  padding-left: 2%;
+}
+
+.box3{
+  height: 60%;
+  text-align: center;
+  padding-top: 25%;
+}
+
+
+
