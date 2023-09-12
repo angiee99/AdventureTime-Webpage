@@ -47,8 +47,8 @@ header{
 }
 
 .box1 li{
-  padding: 5% 0;
-  font-size: 30;
+  padding: 4% 0;
+  font-size: 170%;
 }
 
 .box1 a:hover{
@@ -154,3 +154,7 @@ header{
   text-align: end;
 }
 
+.responsive{
+  width: 100%;
+  height: 60%;
+}
