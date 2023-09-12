@@ -59,6 +59,9 @@ header{
   height: 20%;
   padding-top: 10%;
 }
+.box4-pink{
+  background-color:rgb(255, 157, 190);
+}
 
 .main-box2{
   width: 60%;
@@ -82,7 +85,7 @@ header{
 .bluebox .main-text{
   margin-top: 7%;
   padding-top: 1.5%;
-  background-color: aliceblue;
+  background-color: rgb(246, 254, 255);
   text-align: center;
   padding-right: 0;
 }
