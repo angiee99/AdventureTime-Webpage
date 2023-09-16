@@ -85,7 +85,7 @@ header{
 .bluebox div{
   margin: 5%;
   width: 20%;
-  height: fit-content;
+  height: max-content;
 }
 
 .bluebox .main-text{
@@ -109,7 +109,7 @@ header{
 
 .bluebox .box5{
   padding-left: 2%;
-  width: 30%;
+  width: 50%;
 }
 
 .bluebox .box5-long{
@@ -162,10 +162,12 @@ header{
     font-size: 130%;
   }
 
-  .bluebox div{
+  .bluebox{
     width: fit-content;
+    height: max-content;
   }
   .box4{
+    height: max-content;
     width: fit-content;
   }
 }
